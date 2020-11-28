@@ -6,13 +6,9 @@ Thanks to all the attendees of the Global Microsoft 365 Developer Bootcamp 2020.
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
-| 1 | Nanddeep Nachan & Smita Nachan | Explore RBAC and PIM in M365 | [OneDrive](https://onedrive.com  "PowerPoint on OneDrive")  |
-| 2 | Senthamil V | Power Automate integration with SPFX webpart | [GitHub](https://github.com/  "Presentation on GitHub")  |
-| 3 | Kirti Prajapati | Getting started with SharePoint spaces | [SlideShare](https://www.slideshare.net  "Presentation on SlideShare")  |
-| 4 | Radhakrishnan Govindan | How to use Microsoft Graph Toolkit | [SlideShare](https://www.slideshare.net "Presentation on SlideShare")  |
-| 5 | Manoj Mittal | Get Started with Microsoft Search & Graph Connector | [SlideShare](https://www.slideshare.net "Presentation on SlideShare")  |
-| 6 | Jayakumar Balasubramaniam & Sarah Rajkumar | SPFx Outlook add-in with Azure Cognitive services to detect the sentiment before sending email | [SlideShare](https://www.slideshare.net  "Presentation on SlideShare")  |
-| 7 | Rick Van Rousselt | Extend the unextended in Microsoft Teams | [SlideShare](https://www.slideshare.net "Presentation on SlideShare")  |
+| 1 | Sathish Nadarajan | MS Graph API vs MS Graph Data Connect - When to use what | [OneDrive](https://onedrive.com  "PowerPoint on OneDrive")  |
+| 2 | Vinodha Muthu Valli Gurusamyraj | Simplifying authentication and authorization with Microsoft Identity | [GitHub](https://github.com/  "Presentation on GitHub")  |
+| 3 | Kunal Kankariya | Getting Started with Microsoft Information Protection (MIP) SDK | [SlideShare](https://www.slideshare.net  "Presentation on SlideShare")  |
 
 ## Recording
 
