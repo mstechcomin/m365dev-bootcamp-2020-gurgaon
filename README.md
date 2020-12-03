@@ -6,8 +6,8 @@ Thanks to all the attendees of the Global Microsoft 365 Developer Bootcamp 2020.
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
-| 1 | Sathish Nadarajan | MS Graph API vs MS Graph Data Connect - When to use what | [Presentation](https://github.com/mstechcomin/office365dev-bootcamp-2018-blr/blob/master/docs/MSGraph-API-vs-MSGraph-Data-Connect-When-To-Use-What_Sathish-Nadarajan.pptx?raw=true  "Presentation")  |
-| 2 | Vinodha Muthu Valli Gurusamyraj | Simplifying authentication and authorization with Microsoft Identity | [Presentation](https://github.com/mstechcomin/office365dev-bootcamp-2018-blr/blob/master/docs/Simplifying-Authenticaion-And-Authorization-With-Microsoft-Identity_Vinodha.pdf?raw=true  "Presentation"))  |
+| 1 | Sathish Nadarajan | MS Graph API vs MS Graph Data Connect - When to use what | [Presentation](https://github.com/mstechcomin/m365dev-bootcamp-2020-gurgaon/blob/master/docs/MSGraph-API-vs-MSGraph-Data-Connect-When-To-Use-What_Sathish-Nadarajan.pptx?raw=true  "Presentation")  |
+| 2 | Vinodha Muthu Valli Gurusamyraj | Simplifying authentication and authorization with Microsoft Identity | [Presentation](https://github.com/mstechcomin/m365dev-bootcamp-2020-gurgaon/blob/master/docs/Simplifying-Authenticaion-And-Authorization-With-Microsoft-Identity_Vinodha.pdf?raw=true  "Presentation")  |
 | 3 | Kunal Kankariya | Getting Started with Microsoft Information Protection (MIP) SDK | [SlideShare](https://www.slideshare.net  "Presentation on SlideShare")  |
 
 ## Recording
